@@ -3,3 +3,4 @@ numpy==1.26.4
 pandas==2.2.3
 qrcode==8.0
 streamlit==1.32.0
+MAPIE==0.9.1
